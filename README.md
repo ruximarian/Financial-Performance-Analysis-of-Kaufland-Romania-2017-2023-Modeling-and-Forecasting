@@ -1,36 +1,72 @@
-# Analiza Performanței Financiare a Kaufland România (2017-2023)
+# Financial Performance Analysis of Kaufland Romania (2017-2023)  
 
-Acest proiect reprezintă o analiză detaliată a performanței financiare a companiei **Kaufland România** pentru perioada 2017-2023, utilizând **Microsoft Access, Excel, RStudio și Crystal Ball** pentru analiza datelor, prognoze economice și simulări de risc.
+This project presents a detailed analysis of the **financial performance** of **Kaufland Romania** for the period **2017-2023**, utilizing **Microsoft Access, Excel, RStudio, and Crystal Ball** for **data analysis, economic forecasting, and risk simulations**.  
 
-## 📌 Conținutul proiectului
-1. **Baza de date în Access** – Organizarea și gestionarea datelor financiare și comerciale ale companiei.
-2. **Analiza și vizualizarea în Excel** – Crearea de Dashboard-uri, Pivot Tables și Charts pentru evaluarea indicatorilor financiari.
-3. **Modelare econometrică în RStudio**:
-   - Regresie liniară între cheltuieli și profit.
-   - Model ARIMA pentru prognoza veniturilor viitoare.
-   - Analiza de scenarii (optimist/pesimist).
-4. **Simulări Monte Carlo în Crystal Ball** – Estimarea impactului variațiilor cheltuielilor asupra profitului net.
+## 📌 Project Content  
+1. **Database Management in Access** – Organizing and managing financial and commercial data of the company.  
+2. **Data Analysis and Visualization in Excel** – Creating **Dashboards, Pivot Tables, and Charts** to evaluate financial indicators.  
+3. **Econometric Modeling in RStudio**:  
+   - Linear regression between expenses and profit.  
+   - ARIMA model for revenue forecasting.  
+   - Scenario analysis (optimistic/pessimistic).  
+4. **Monte Carlo Simulations in Crystal Ball** – Estimating the impact of expense variations on net profit.  
 
-## 📊 Date utilizate
-- **Cifra de afaceri**
-- **Profit brut & net**
-- **Cheltuieli totale**
-- **Număr de angajați**
-- **Vânzări pe țară și brand**
+## 📊 Data Used  
+- **Turnover (Revenue)**  
+- **Gross & Net Profit**  
+- **Total Expenses**  
+- **Number of Employees**  
+- **Sales by Region and Brand**  
 
-## 🔧 Tehnologii utilizate
-- **Microsoft Access** pentru gestionarea bazelor de date.
-- **Excel + Crystal Ball** pentru analize financiare și simulări de risc.
-- **RStudio** pentru modelare statistică și prognoze.
+## 🔧 Technologies Used  
+- **Microsoft Access** for database management.  
+- **Excel + Crystal Ball** for financial analysis and risk simulations.  
+- **RStudio** for statistical modeling and forecasting.  
 
-## 📈 Rezultate și concluzii
-- Kaufland a înregistrat o **creștere constantă** a veniturilor și profitului între 2017 și 2023.
-- Regresia liniară a arătat o **corelație puternică** între cheltuieli și profit.
-- Modelul ARIMA a **prognozat creșteri constante** ale veniturilor în următorii 5 ani.
-- Analiza de scenarii a indicat **riscuri minime** și o stabilitate financiară ridicată.
-- Simulările Monte Carlo au arătat că **optimizarea costurilor** poate crește profitabilitatea.
+## 📈 Results & Conclusions  
+- Kaufland recorded **steady revenue and profit growth** between 2017 and 2023.  
+- Linear regression showed a **strong correlation** between expenses and profit.  
+- The ARIMA model **forecasted consistent revenue growth** over the next five years.  
+- Scenario analysis indicated **minimal risks** and **high financial stability**.  
+- Monte Carlo simulations showed that **cost optimization** can enhance profitability.  
 
-## 🚀 Cum să rulezi analiza
-1. **Deschide fișierul `Analiza_RStudio.R` în RStudio** și rulează secțiunile pentru regresie și prognoze.
-2. **Încarcă baza de date în Access** pentru a explora relațiile dintre date.
-3. **Folosește Excel și Crystal Ball** pentru simulări și vizualizări interactive.
+## 🚀 How to Run the Analysis  
+1. **Open the `Analiza_RStudio.R` file in RStudio** and run the sections for regression and forecasts.  
+2. **Load the database in Access** to explore relationships between data.  
+3. **Use Excel and Crystal Ball** for simulations and interactive visualizations.  
+# Financial Performance Analysis of Kaufland Romania (2017-2023)  
+
+This project presents a detailed analysis of the **financial performance** of **Kaufland Romania** for the period **2017-2023**, utilizing **Microsoft Access, Excel, RStudio, and Crystal Ball** for **data analysis, economic forecasting, and risk simulations**.  
+
+## 📌 Project Content  
+1. **Database Management in Access** – Organizing and managing financial and commercial data of the company.  
+2. **Data Analysis and Visualization in Excel** – Creating **Dashboards, Pivot Tables, and Charts** to evaluate financial indicators.  
+3. **Econometric Modeling in RStudio**:  
+   - Linear regression between expenses and profit.  
+   - ARIMA model for revenue forecasting.  
+   - Scenario analysis (optimistic/pessimistic).  
+4. **Monte Carlo Simulations in Crystal Ball** – Estimating the impact of expense variations on net profit.  
+
+## 📊 Data Used  
+- **Turnover (Revenue)**  
+- **Gross & Net Profit**  
+- **Total Expenses**  
+- **Number of Employees**  
+- **Sales by Region and Brand**  
+
+## 🔧 Technologies Used  
+- **Microsoft Access** for database management.  
+- **Excel + Crystal Ball** for financial analysis and risk simulations.  
+- **RStudio** for statistical modeling and forecasting.  
+
+## 📈 Results & Conclusions  
+- Kaufland recorded **steady revenue and profit growth** between 2017 and 2023.  
+- Linear regression showed a **strong correlation** between expenses and profit.  
+- The ARIMA model **forecasted consistent revenue growth** over the next five years.  
+- Scenario analysis indicated **minimal risks** and **high financial stability**.  
+- Monte Carlo simulations showed that **cost optimization** can enhance profitability.  
+
+## 🚀 How to Run the Analysis  
+1. **Open the `Analiza_RStudio.R` file in RStudio** and run the sections for regression and forecasts.  
+2. **Load the database in Access** to explore relationships between data.  
+3. **Use Excel and Crystal Ball** for simulations and interactive visualizations.  
